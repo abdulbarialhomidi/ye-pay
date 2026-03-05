@@ -1,0 +1,5 @@
+{
+    "Frontend": true,
+    "Payment": true,
+    "Cart": true
+}
